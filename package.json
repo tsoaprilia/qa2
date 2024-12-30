@@ -1,0 +1,27 @@
+{
+  "name": "cypress-project",
+  "version": "1.0.0",
+  "description": "A Cypress Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsoaprilia/qa2.git"
+  },
+  "keywords": [
+    "cypress",
+    "testing"
+  ],
+  "author": "aprilia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsoaprilia/qa2/issues"
+  },
+  "homepage": "https://github.com/tsoaprilia/qa2#readme",
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}
